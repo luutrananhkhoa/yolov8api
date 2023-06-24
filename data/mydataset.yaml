@@ -1,0 +1,10 @@
+# train: ../train_images/images/train
+# val: ../train_images/images/train
+# is_coco: False
+# nc: 1
+# names: ['fire']
+train: /home/thuannd/Yolov8/datasets/fresh_or_rotten/train
+val: /home/thuannd/Yolov8/datasets/fresh_or_rotten/train
+nc: 26
+names: ['AppleFresh','AppleRotten','BananaRotten','BananaUnripe','DragonFruitFresh','DragonFruitRotten','GuavaFresh','GuavaRotten','MangoFresh','MangoRotten','MangoUnripe','OrangesFresh','OrangesRotten','OrangesUnripe','PapayaFresh','PapayaRotten','PapayaUnripe','PomegranateFresh','PomegranateRotten','StrawberryFresh','StrawberryUnripe','TomatoFresh','TomatoRotten','TomatoUnripe','BananaFresh','StrawberryRotten']
+ 
